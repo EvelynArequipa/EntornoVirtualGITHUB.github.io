@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--TITULO DE PAGINA-->
+<head>
+    <title>Pagina web</title> 
+    <!--APLICACION DE CSS-->
+    <link href="css/menu.css" rel="stylesheet">
+    <link href="css/InterfCss.css" rel="stylesheet">
+</head>
+<body>
+    <table border="0" width="100%" long="100%" align="center" bgcolor="#0623F6" class="tabla_1">
+        <table border="0" width="90%" long="90%" align="center" bgcolor="#0623F6">
+            <!--PORTADA-->
+            <td border="0" align="center">
+                <img src="ImagInterfacesP/LogUtc.png"  width="900px" height="200px" class="portada_In">
+            </td>
+        </table>
+        <table border="0" width="90%" long="90%" align="center" bgcolor="#0B73F8">
+            <!--Tabla menú opciones_1-->
+            <tr>
+                <td>
+                    <table border="0" align="right">
+                    <tr>
+                        <!--Menu desplegable con listas-->
+                        <h1 align="center">ESTUDIANTE</h1>
+                        </br>
+                        </br>
+                        <header>
+                            <nav class="navegacion">
+                                <ul  align="center" class="menu">
+                                    <li>
+                                        <ul  align="right" class="menu">
+                                            <li><a href="EvelynArequipa.html"><h3>Evelyn Arequipa</h3></a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </header>
+                        <h1 align="center">
+                            EVELYN VANESSA AREQUIPA CASA.
+                            ESTUDIANTE DE LA CARRERA DE INGENIERIA EN SISTEMAS DE INFORMACION. 
+                            QUINTO CICLO.
+                        </h1>
+                    </tr> 
+                    </table>      
+                </td>
+            </tr> 
+        </table>
+        <!--CONTENIDO-->
+        <table border="0" width="90%" long="90%" align="center" bgcolor="#0623F6">
+            <tr>
+                <td align="center">
+                    <img src="ImagInterfacesP/Evelyn.jpeg" class="circunferencia">
+                </td>
+            </tr>
+        </table>
+        <!--TABLA PIE DEL DISEÑO--> 
+        <table border="0" width="90%" long="90%" align="center" bgcolor="#0623F6"> 
+            <tr align="center">
+                <td colspan="1" align="center"><p><small>EVELYN VANESSA AREQUIPA CASA, Quinto semestre, INTERFACES DE COMPUTADOR Y PLATAFORMAS INFORMATICAS.®</small><p/></td>
+            </tr>
+        </table>
+    </table>
+</body>
+</html>
